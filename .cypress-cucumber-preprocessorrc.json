@@ -1,0 +1,6 @@
+{
+    "stepDefinitions": [
+        "src/**/spec/**/[filepath].cy.{js,ts}",
+        "cypress/common-steps/*.cy.{js,ts}"
+    ]
+}
