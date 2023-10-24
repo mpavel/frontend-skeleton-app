@@ -1,6 +1,6 @@
 # Frontend Skeleton App
 
-With Vite, React, Typescript, Cypress and Cucumber.
+With Vite, React, Typescript, Vitest, Cypress and Cucumber.
 
 # React + TypeScript + Vite
 
