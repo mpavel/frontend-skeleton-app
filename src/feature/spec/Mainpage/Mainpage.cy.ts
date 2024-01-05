@@ -1,4 +1,4 @@
-import { Then } from "@badeball/cypress-cucumber-preprocessor";
+import { Then } from 'cypress/utils';
 
 // Step definitions in this file are only relevant for `Mainpage.feature`
 

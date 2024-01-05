@@ -5,6 +5,7 @@ import { createEsbuildPlugin } from '@badeball/cypress-cucumber-preprocessor/esb
 
 // docs: https://github.com/badeball/cypress-cucumber-preprocessor/blob/master/docs/quick-start.md
 export default defineConfig({
+  fixturesFolder: '**/spec/fixtures',
   e2e: {
     specPattern: '**/spec/**/*.feature',
     async setupNodeEvents(
